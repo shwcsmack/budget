@@ -7,3 +7,8 @@ tasks:
     command: cargo watch -x run
 
 
+vscode:
+  extensions:
+    - rust-lang.rust
+    - rust-lang.rust-analyzer
+    - vscodevim.vim
