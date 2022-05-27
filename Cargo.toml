@@ -9,3 +9,4 @@ repository = "https://github.com/shwcsmack/budget/"
 description = "A budget app made from scratch in rust"
 
 [dependencies]
+dialoguer = "0.10.1"
